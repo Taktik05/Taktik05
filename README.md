@@ -37,7 +37,7 @@
 
 *   **Телефон:** [+7 977 140-41-49](tel:+79771404149)
 *   **Email:** [hotabich71@yandex.ru](mailto:hotabich71@yandex.ru)
-*   **Telema gram:** [@Ter4ha)
+*   **Telegram:** [@Ter4ha)
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taktik05&show_icons=true&theme=default)
